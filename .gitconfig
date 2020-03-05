@@ -1,0 +1,9 @@
+[core]
+	excludesfile = ~/.gitignore_global
+	quotepath = false
+[color]
+	ui = true
+[alias]
+	st = status
+	lg = log
+	co = checkout
